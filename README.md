@@ -61,4 +61,4 @@ This section is similar to the decision boundary plotting for the training set b
 Finally, the code compiles the results, including the weights (`w1`, `w2`), bias (`bias`), training error, and test error into a DataFrame and displays the results.
 
 Please note that the code includes comments and explanatory text within the functions to help you understand its functionality.
->>>>>>> submodule-origin/main
+
